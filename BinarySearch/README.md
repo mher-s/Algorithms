@@ -6,6 +6,8 @@ If an element you’re
 looking for is in that list, binary search returns the position
 where it’s located by dividing by half.
 
+![image info](./img/search.png)
+
 ### Exercises
 
 - Suppose you have a sorted list of 128 names, and you’re searching
