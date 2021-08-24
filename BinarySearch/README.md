@@ -2,8 +2,6 @@
 
 ## How it works ?
 
-Binary 
-
 If an element you’re
 looking for is in that list, binary search returns the position
 where it’s located by dividing by half.
